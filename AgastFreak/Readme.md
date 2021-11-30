@@ -6,5 +6,5 @@ To try out different set, simply change the variable "setNumber" in the beginnin
 
 Similarly, all the output images are stored in the folder "OutputImages", where the output of each pair of images is stored under its own folder, named accordingly.
 
-In this project, we implemented Agast feature detector, FREAK descriptor and BruteForce matcher for the matching algorithm. We also used warpPerspective to stitch images together.sssssssss
+In this project, we implemented Agast feature detector, FREAK descriptor and BruteForce matcher for the matching algorithm. We also used warpPerspective to stitch images together.
 Note that in the include part of the code, two "includes" had to be modified by listing the absolute path instead of their regular names.
