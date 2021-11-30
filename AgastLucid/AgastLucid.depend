@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1636313603 source:c:\users\georg\documents\lau documents\fall_2021\divpc\projects\project1\project 1 codes\agastlucid\main.cpp
+	<stdio.h>
+	<iostream>
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"C:/opencvCodeblocks/opencv_contrib-4.2.0/modules/xfeatures2d/include/opencv2/xfeatures2d.hpp"
+	"opencv2/highgui.hpp"
+	"C:/opencvCodeblocks/opencv_contrib-4.2.0/modules/xfeatures2d/include/opencv2/xfeatures2d/nonfree.hpp"
+	<opencv2/opencv.hpp>
+	"opencv2/stitching.hpp"
+
+1636157193 c:\opencvcodeblocks\opencv_contrib-4.2.0\modules\xfeatures2d\include\opencv2\xfeatures2d.hpp
+	"opencv2/features2d.hpp"
+	"C:/opencvCodeblocks/opencv_contrib-4.2.0/modules/xfeatures2d/include/opencv2/xfeatures2d/nonfree.hpp"
+
+1636129824 c:\opencvcodeblocks\opencv_contrib-4.2.0\modules\xfeatures2d\include\opencv2\xfeatures2d\nonfree.hpp
+	"opencv2/features2d.hpp"
+
