@@ -17,9 +17,6 @@ using namespace cv::xfeatures2d;
 int main(int argc, char** argv)
 
 {
-    Ptr<SIFT> sift_detector = SIFT::create();
-
-
     //Here, select a set of images by changing the number to either 1 or 2 or 3
     const string setNumber = "4";
 
